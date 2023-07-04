@@ -31,16 +31,6 @@ Text Domain: planet4-child-theme-colombia
   border: 0;
 }
 
-.btn-donate {
-  background-color: #F36D3A;
-  color: #FFFFFF !important;
-}
-
-.btn-donate:hover, .btn-donate:focus {
-  background-color: yellow;
-  color: black !important;
-}
-
 .article-list-item-author{
   display: none;
 }
